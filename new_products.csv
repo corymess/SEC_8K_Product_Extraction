@@ -1,7 +1,7 @@
 company_name,stock_name,filing_time,new_product,product_description
-3M CO,MMM,2026-10-20T06:35:38-04:00,Cooling Film technology,A thermal management solution.
-3M CO,MMM,2026-07-21T06:34:07-04:00,Ask 3M,An AI digital assistant
-ABBOTT LABORATORIES,ABT,2026-10-21T09:19:51-04:00,Ensure shake,A high-protein shake.
+3M CO,MMM,2026-10-20T06:35:38-04:00,Cooling Film technology,"3M introduced Cooling Film technology for fleet and rail applications, expanding its portfolio of thermal management solutions for transportation customers."
+3M CO,MMM,2026-07-21T06:34:07-04:00,Ask 3M,"3M launched Ask 3M, an AI digital assistant powered by AWS that gives customers fast, self-service access to technical expertise, enabling more efficient evaluation of materi..."
+ABBOTT LABORATORIES,ABT,2026-10-21T09:19:51-04:00,Ensure shake,"1 The Nutrition business has continued to innovate its portfolio – underpinned by consumer preferences and trends – with 10 product launches in the first half of 2026, includin..."
 ABBOTT LABORATORIES,ABT,2026-10-21T09:19:51-04:00,Ready-to-feed liquid infant formula,A ready-to-feed liquid infant formula made with whole milk
 ABBOTT LABORATORIES,ABT,2026-10-21T07:36:13-04:00,Amulet 360,A left atrial appendage occluder
 ABBOTT LABORATORIES,ABT,2026-10-21T07:36:13-04:00,Similac 360 Total Care,A liquid infant formula made with whole milk
@@ -10,61 +10,61 @@ ABBOTT LABORATORIES,ABT,2026-10-21T07:36:13-04:00,SimpleScreen,a blood-based col
 AbbVie Inc.,ABBV,2026-10-30T07:51:51-04:00,Juvmo,AbbVie announced the FDA approved Juvmo (tavapadon) tablets as the only selective D1/D5 receptor agonist for the treatment of adults with Parkinso...
 AbbVie Inc.,ABBV,2026-10-30T07:51:51-04:00,Etentamig,A next-generation BCMA x CD3 bispecific T-cell engager
 AbbVie Inc.,ABBV,2026-07-31T07:51:32-04:00,Decnupaz,A medicine for the treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN)
-AbbVie Inc.,ABBV,2026-07-31T07:51:32-04:00,Skinvive by Juvederm,A hyaluronic acid injectable
-ADOBE INC.,ADBE,2026-09-08T16:38:46-04:00,CX Enterprise Coworker,A new product innovation.
+AbbVie Inc.,ABBV,2026-07-31T07:51:32-04:00,Skinvive by Juvederm,Allergan Aesthetics announced the FDA approved Skinvive by Juvederm as the first hyaluronic acid injectable indicated to reduce neck lines for the improvement of neck appeara...
+ADOBE INC.,ADBE,2026-09-08T16:38:46-04:00,CX Enterprise Coworker,He has been instrumental in scaling Adobe Experience Platform and the introduction of new product innovations like CX Enterprise Coworker.
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Helios,A data center portfolio solution.
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI400 Series GPU family,A GPU family.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI400 Series GPU family,"Launched the AMD Instinct MI400 Series GPU family , including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and 2 inference,..."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,MI455X,"Launched the AMD Instinct MI400 Series GPU family , including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and 2 inference,..."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,MI430X,"Launched the AMD Instinct MI400 Series GPU family , including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and 2 inference,..."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,6th Gen AMD EPYC,"Introduced 6th Gen AMD EPYC server CPUs , built to deliver leadership performance across the full range of agentic AI, general-purpose and enterprise workloads."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI350P GPU,A GPU designed to bring seamless AI acceleration to existing infrastructure with leadership token economics.
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Ryzen 7700X3D processors,A new processor.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Ryzen 7700X3D processors,"Launched AMD Ryzen 7700X3D processors and extended support for Socket AM5 platforms through 2029, giving gamers more performance and longevity."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Ryzen AI Embedded X100 Series processors,A new family of embedded x86 processors
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Kria AI system-on-modules,"Announced AMD Kria™ AI solutions, including AMD Kria AI system-on-modules and the AMD Kria AI Robotics Developer Platform to accelerate the development of next-generation phy..."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Kria AI Robotics Developer Platform,"Announced AMD Kria™ AI solutions, including AMD Kria AI system-on-modules and the AMD Kria AI Robotics Developer Platform to accelerate the development of next-generation phy..."
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Versal Premium Series Gen 2 Memory on Package adaptive SoCs,A new SoC.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Versal Premium Series Gen 2 Memory on Package adaptive SoCs,"Launched Versal™ Premium Series Gen 2 Memory on Package adaptive SoCs , to speed data transfer for test and measurement, professional video editing, communications and aerosp..."
 ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI450 Series,"Launched broad data center portfolio including the AMD Helios rackscale solution, AMD Instinct MI450 Series GPUs, 6..."
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Pensando Salina,A networking solution.
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Vulcano,A networking solution.
-ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,ROCm.ai,An AI-native developer experience.
-ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,AMD Ryzen AI PRO 400 Series processors,Next-generation enterprise desktop processors
-ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Ryzen 9950X3D2 Dual Edition processors,A new processor.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Pensando Salina,"Launched broad data center portfolio including the AMD Helios rackscale solution, AMD Instinct MI450 Series GPUs, 6..."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Vulcano,"Launched broad data center portfolio including the AMD Helios rackscale solution, AMD Instinct MI450 Series GPUs, 6..."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,ROCm.ai,"Introduced ROCm.ai, an AI-native developer experience that makes it easier to build and deploy on AMD."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,AMD Ryzen AI PRO 400 Series processors,"AMD expanded its offerings for premium enterprise and enthusiast PCs, including: ◦ The AMD Ryzen AI PRO 400 Series processors , expanding its lineup of next-generation enterp..."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Ryzen 9950X3D2 Dual Edition processors,"Introduced Ryzen 9950X3D2 Dual Edition processors, delivering enhanced performance for creative and developer workloads with dual stacks of 3D V-Cache ."
 ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Kintex UltraScale+ Gen 2,"Launched the Kintex UltraScale+ Gen 2 family of mid-range FPGAs, delivering advanced memory bandwidth and I/O performance for ind..."
 ADVANCED MICRO DEVICES INC,AMD,2026-02-03T16:16:18-05:00,AMD Instinct MI440X,A GPU for enterprise AI
 ADVANCED MICRO DEVICES INC,AMD,2026-02-03T16:16:18-05:00,Ryzen AI Halo Platform,A new AI developer platform.
-AFLAC INC,AFL,2026-08-06T16:14:30-04:00,Tsumitasu,Savings-type life insurance
+AFLAC INC,AFL,2026-08-06T16:14:30-04:00,Tsumitasu,"For the quarter, total new annualized premium sales (sales) decreased 5.6% to ¥19.6 billion, or $123 million, reflecting a high prior-year sales baseline for Miraito cancer ins..."
 "Airbnb, Inc.",ABNB,2026-08-06T16:02:53-04:00,resort passes,A new type of guest pass.
-"Airbnb, Inc.",ABNB,2026-08-06T16:02:53-04:00,AI-generated home comparisons,A new feature.
-"Airbnb, Inc.",ABNB,2026-08-06T16:02:53-04:00,AI voice assistant,A new voice assistant.
-"Airbnb, Inc.",ABNB,2025-11-06T16:00:50-05:00,"Reserve Now, Pay Later",A payment option.
+"Airbnb, Inc.",ABNB,2026-08-06T16:02:53-04:00,AI-generated home comparisons,"Later this year, we’ll introduce AI-generated home comparisons that help guests compare homes across the key attributes that matter most to them."
+"Airbnb, Inc.",ABNB,2026-08-06T16:02:53-04:00,AI voice assistant,"Later this year, we’ll begin introducing an AI voice assistant, extending that experience to phone calls."
+"Airbnb, Inc.",ABNB,2025-11-06T16:00:50-05:00,"Reserve Now, Pay Later","In August, we launched our Reserve Now, Pay Later payment option within the U.S., which allows guests to pay $0 upfront when they book eligible domestic stays."
 "Airbnb, Inc.",ABNB,2025-08-06T16:01:48-04:00,Airbnb Services,Incredible services to make your stay more special
 "Airbnb, Inc.",ABNB,2025-08-06T16:01:48-04:00,Airbnb Experiences,Explore a city with the locals who know it best
 "Airbnb, Inc.",ABNB,2025-08-06T16:01:48-04:00,All-new Airbnb app,"A redesigned app that makes it easy to book homes, services, and experiences—all in one place"
-"Airbnb, Inc.",ABNB,2025-08-06T16:01:48-04:00,Co-Host Network,A new feature.
+"Airbnb, Inc.",ABNB,2025-08-06T16:01:48-04:00,Co-Host Network,"For instance, to make it even easier, we introduced Co-Host Network last year."
 "Airbnb, Inc.",ABNB,2025-05-01T16:01:26-04:00,Guest Favorites,"We introduced features like Guest Favorites to help people easily find the best places to stay, and total price display to give them more transparency around pricing."
 "Airbnb, Inc.",ABNB,2025-05-01T16:01:26-04:00,total price display,"We introduced features like Guest Favorites to help people easily find the best places to stay, and total price display to give them more transparency around pricing."
 ALIGN TECHNOLOGY INC,ALGN,2026-10-28T16:02:16-04:00,Invisalign Sports Guard,A custom direct 3D printed sports mouth guard
-ALIGN TECHNOLOGY INC,ALGN,2026-10-28T16:02:16-04:00,Invisalign Specifix attachment system,A new attachment system.
-"ALTRIA GROUP, INC.",MO,2025-10-30T07:03:10-04:00,Helix,A new product.
+ALIGN TECHNOLOGY INC,ALGN,2026-10-28T16:02:16-04:00,Invisalign Specifix attachment system,Invisalign ® Specifix attachment system launched this year expands our direct 3D-printing capabilities beyond aligners and appliances into the attachment system itself.
+"ALTRIA GROUP, INC.",MO,2025-10-30T07:03:10-04:00,Helix,Helix recently launched on!
 AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Bedrock Managed Agents,A managed service powered by OpenAI
 AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Lambda Web Functions,A new web application service.
 AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Amazon Ads Agent,An AI-first platform for advertisers.
 AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Lambda MicroVMs,A new flavor of the popular AWS Lambda serverless compute service
-AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Proteus,An autonomous robot
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Proteus,"Introduced the next-generation of Proteus, an autonomous robot that assists Amazon fulfillment center employees by moving goods up to 1,300 pounds, reducing heavy lifting and..."
 AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Bedrock AgentCore,"A set of infrastructure building blocks for developers and companies to build secure, scalable agents."
 AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,AWS Agent Registry,"A tool to help customers discover, share, and reuse AI agents, tools, and agent skills across an enterprise."
-AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Bio Discovery,An agentic AI application
-AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,AI experience in Seller Central,A new AI experience.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Bio Discovery,"Launched Amazon Bio Discovery, an agentic AI application designed to accelerate drug discovery by giving scientists access to biological foundation models, an AI agent for ex..."
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,AI experience in Seller Central,"Introduced a new AI experience in Seller Central that dynamically generates a custom, personalized visualization of data, key insights, and scenarios tailored to the seller’s..."
 AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Join the chat,A new feature in Amazon's AI-powered Hear the highlights
-AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Health AI,A new AI service.
-AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Rufus,AI shopping assistant.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Health AI,Launched Health AI on the Amazon U.S.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Rufus,"Introduced Sponsored Products and Brand Prompts in Rufus, Amazon’s AI shopping assistant."
 AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Creative Agent,An agentic AI solution for advertisers
-AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Alexa+,A virtual assistant.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Alexa+,"Expanded Alexa+ to Mexico, the UK, Italy, and Spain and introduced new capabilities, including Alexa+ Personality Styles to customize how Alexa responds to questions and requ..."
 AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Kindle Scribe,"Expanded Alexa+ to Mexico, the UK, Italy, and Spain and introduced new capabilities, including Alexa+ Personality Styles to customize how Alexa responds to questions and requ..."
-AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,Amex Corporate,Integrated Expense Management software
+AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,Amex Corporate,"American Express launched the next generation of Amex Corporate™ , with new integrated Expense Management software and Amex Expense mobile app, along with new Corporate Cashb..."
 AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,Amex Expense,"American Express launched the next generation of Amex Corporate™ , with new integrated Expense Management software and Amex Expense mobile app, along with new Corporate Cashb..."
 AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,Corporate Cashback,"American Express launched the next generation of Amex Corporate™ , with new integrated Expense Management software and Amex Expense mobile app, along with new Corporate Cashb..."
-AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,American Express Business Savings account,A new savings account.
+AMERICAN EXPRESS CO,AXP,2026-10-23T07:00:36-04:00,American Express Business Savings account,"The company introduced a new American Express Business Savings account , expanding its banking offerings for businesses."
 Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,iPhone 17e,"That included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.” “Our stron..."
 Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,M4-powered iPad Air,"That included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.” “Our stron..."
 Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,MacBook Neo,"That included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.” “Our stron..."
@@ -73,47 +73,47 @@ Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone 17 Pro,"“In September, we wer
 Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone Air,"“In September, we were thrilled to launch our best iPhone lineup ever, including iPhone 17, iPhone 17 Pro and Pro Max, and iPhone Air."
 Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,AirPods Pro 3,"In addition, we launched the fantastic AirPods Pro 3 and the all-new Apple Watch lineup."
 Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,Apple Watch,"In addition, we launched the fantastic AirPods Pro 3 and the all-new Apple Watch lineup."
-APPLIED MATERIALS INC /DE,AMAT,2026-08-13T16:03:36-04:00,Nokota· VMax· 2 ECD,A copper plating technology.
+APPLIED MATERIALS INC /DE,AMAT,2026-08-13T16:03:36-04:00,Nokota· VMax· 2 ECD,"Nokota™ VMax™ 2 ECD: high-precision copper plating across a broad range of applications for next-generation packaging, from TSV fill for 3D stacking to fine-pitch interconnec..."
 APPLIED MATERIALS INC /DE,AMAT,2026-08-13T16:03:36-04:00,SENZ,An integrated ambient visual platform.
-"Arista Networks, Inc.",ANET,2026-08-04T16:06:44-04:00,1.6 Tbps AI fabric platforms,AI fabric platforms
+"Arista Networks, Inc.",ANET,2026-08-04T16:06:44-04:00,1.6 Tbps AI fabric platforms,"Introduced 1.6 Tbps AI fabric platforms, including liquid-cooled options optimized for scale-up, scale-out, and scale-across networks."
 "Arista Networks, Inc.",ANET,2026-08-04T16:06:44-04:00,7060XE7 Series,A next-generation 1.6-terabit portfolio for AI fabrics.
-"Arista Networks, Inc.",ANET,2026-05-05T16:06:48-04:00,XPO high-density liquid-cooled pluggable optics,High-density liquid-cooled pluggable optics
+"Arista Networks, Inc.",ANET,2026-05-05T16:06:48-04:00,XPO high-density liquid-cooled pluggable optics,"Delivering 35% revenue growth alongside $0.87 non-GAAP EPS demonstrates our ability to drive high-quality growth while maintaining a rigorous focus on the bottom line."" Company..."
 "Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,R4 series platforms,Next Generation Data and AI Center Networks
-"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,Cognitive Campus Switches,A new switch.
-"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,Cluster Load Balancing,A networking technology.
-"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,CloudVision Universal Network Observability,A networking technology.
-"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,ESUN,Ethernet for Scale-Up Networks
+"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,Cognitive Campus Switches,"Arista Launched Cognitive Campus Switches for the Industrial Edge Arista’s new ruggedized platforms bring the power, reliability, and operational simplicity of EOS to demandi..."
+"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,Cluster Load Balancing,Arista introduced intelligent innovations for AI networking Capabilities such as Cluster Load Balancing (CLB) and CloudVision® Universal Network...
+"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,CloudVision Universal Network Observability,Arista introduced intelligent innovations for AI networking Capabilities such as Cluster Load Balancing (CLB) and CloudVision® Universal Network...
+"Arista Networks, Inc.",ANET,2026-02-12T16:07:57-05:00,ESUN,Arista Networks to collaborate with industry leaders to deliver Ethernet for Scale-Up Networks (ESUN) ESUN was unveiled at the OCP Global Summit in October 2025 as an open OC...
 "Arista Networks, Inc.",ANET,2025-11-04T16:08:44-05:00,CloudVision AI,An observability blueprint for modern AI workloads.
-"AXON ENTERPRISE, INC.",AXON,2026-08-05T16:12:36-04:00,Axon Body Mini,A new body-worn camera.
-"AXON ENTERPRISE, INC.",AXON,2026-05-06T16:15:09-04:00,Form One,A universal browser extension.
+"AXON ENTERPRISE, INC.",AXON,2026-08-05T16:12:36-04:00,Axon Body Mini,"Axon Body Mini Launches for Enterprise In June, Axon Body Mini became generally available across the United States, Canada, the United Kingdom, the European Union, Australia an..."
+"AXON ENTERPRISE, INC.",AXON,2026-05-06T16:15:09-04:00,Form One,"The result is Form One, now available as a universal browser extension that brings Axon’s AI workflows beyond our ecosystem to a wide range of use cases."
 "AXON ENTERPRISE, INC.",AXON,2026-05-06T16:15:09-04:00,AI Case Compass,A new AI-powered case management tool.
 "AXON ENTERPRISE, INC.",AXON,2026-05-06T16:15:09-04:00,Dedrone C2,The next evolution of the Dedrone platform.
-"AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Brief One,A new product.
-"AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Axon Assistant,A new product.
+"AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Brief One,"This year, we enhanced those capabilities through rolling improvements while bringing Brief One and Form One into broader availability and introducing Axon Assistant."
+"AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Axon Assistant,"This year, we enhanced those capabilities through rolling improvements while bringing Brief One and Form One into broader availability and introducing Axon Assistant."
 "AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Axon Outpost,A new device form factor.
 "AXON ENTERPRISE, INC.",AXON,2026-02-24T16:16:54-05:00,Axon Lightpost,A new device form factor.
 BAXTER INTERNATIONAL INC,BAX,2026-04-30T07:17:57-04:00,IV Verify Line Labeling System,An automated solution for labeling medication
 BECTON DICKINSON & CO,BDX,2026-08-06T06:31:38-04:00,Vystra,An injection pen for semaglutide.
-BECTON DICKINSON & CO,BDX,2026-08-06T06:31:38-04:00,Elyra,Thulium Fiber Laser System
+BECTON DICKINSON & CO,BDX,2026-08-06T06:31:38-04:00,Elyra,"Interventional: • Launched the Elyra™ Thulium Fiber Laser System , expanding BD's kidney stone care portfolio with a system designed to help urology teams enhance efficiency,..."
 BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,BD® CentroVena One® Insertion System,A central venous catheter insertion device
-BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,BD® Pyxis® Pro Dispensing Solution,A new dispensing solution.
+BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,BD® Pyxis® Pro Dispensing Solution,"Launched the BD® Pyxis™ Pro Dispensing Solution and BD® Incada™ Connected Care Platform in Europe, leveraging advanced automation and AI‑driven insights to improve medication..."
 BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,BD® Incada® Connected Care Platform,A new connected care platform.
 BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,HemoSphere Stream,A blood pressure monitoring system.
-BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,Revello,Vascular Covered Stent
-BIOGEN INC.,BIIB,2026-07-29T06:10:24-04:00,SPINRAZA HD,A new medicine.
-BIOGEN INC.,BIIB,2026-07-29T06:10:24-04:00,LEQEMBI IQLIK,An anti-amyloid treatment
+BECTON DICKINSON & CO,BDX,2026-05-07T06:30:49-04:00,Revello,"Interventional: • Received CE Marking for the Revello™ Vascular Covered Stent , advancing BD's peripheral vascular portfolio with a next-generation endovascular solution for..."
+BIOGEN INC.,BIIB,2026-07-29T06:10:24-04:00,SPINRAZA HD,"“At the same time, our scientific leadership continues to translate into commercial momentum, with a successful launch of SPINRAZA HD and historic approval of LEQEMBI IQLIK at-..."
+BIOGEN INC.,BIIB,2026-07-29T06:10:24-04:00,LEQEMBI IQLIK,"in-market sales of $97 million, representing continued sequential growth; LEQEMBI IQLIK, a first-of-its-kind anti-amyloid treatment offering at-home administration, approved by..."
 "Block, Inc.",XYZ,2026-08-05T16:11:16-04:00,Buzz,"An internally developed system for agent collaboration, communication, and code repositories."
 "Block, Inc.",XYZ,2026-08-05T16:11:16-04:00,Cash App Tags,a new line of tap-to-pay hardware
-"Block, Inc.",XYZ,2026-08-05T16:11:16-04:00,Afterpay Pre-Purchase,A new BNPL service.
+"Block, Inc.",XYZ,2026-08-05T16:11:16-04:00,Afterpay Pre-Purchase,"We continued to innovate for our customers, expanding BNPL functionality further by launching Afterpay Pre-Purchase to general availability."
 "Block, Inc.",XYZ,2026-05-07T16:21:05-04:00,Cash App managed accounts for kids,A new banking service for kids.
-"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Cash App Green,An expanded status program.
-"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Moneybot,A new feature.
-"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Proto,A mining rig.
+"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Cash App Green,"We also held our first Cash App Releases, where we launched Cash App Green, our expanded status program, introduced Moneybot, and showcased over 150 upgrades from the past year."
+"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Moneybot,"We also held our first Cash App Releases, where we launched Cash App Green, our expanded status program, introduced Moneybot, and showcased over 150 upgrades from the past year."
+"Block, Inc.",XYZ,2026-02-26T16:06:19-05:00,Proto,We continued to deliver our shipments of Proto mining rigs and made meaningful progress on the development of our next-generation chip architecture.
 "Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Neighborhoods,A new feature on Cash App.
-"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Multichannel Menus,A new feature.
-"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Kiosk,A new feature.
-"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,AI Voice Ordering,A new feature.
-"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Order Guide,AI-powered centralized procurement tool
+"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Multichannel Menus,"We launched products including Multichannel Menus, Kiosk, AI Voice Ordering, and Order Guide to help these sellers grow and streamline their operations."
+"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Kiosk,"We launched products including Multichannel Menus, Kiosk, AI Voice Ordering, and Order Guide to help these sellers grow and streamline their operations."
+"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,AI Voice Ordering,"We launched products including Multichannel Menus, Kiosk, AI Voice Ordering, and Order Guide to help these sellers grow and streamline their operations."
+"Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Order Guide,"We also launched Order Guide, Square’s new AI-powered centralized procurement tool that helps restaurants bring all their vendor data into one place and gives sellers instant c..."
 "Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Cash App Pools,A new feature for group money collection.
 "Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Teen Savings Yield,A savings account for teens.
 "Block, Inc.",XYZ,2025-11-06T16:29:20-05:00,Holo card,A new card design for Cash App Card.

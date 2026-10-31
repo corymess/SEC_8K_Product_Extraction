@@ -192,7 +192,7 @@ def clean_products(products):
     cleaned = []
     for item in best.values():
         description = item["description"].strip()
-        if len(description.split()) < 3:  # too weak, so use the filing's own sentence
+        if len(description.split()) < 5:  # too weak, so use the filing's own sentence
             description = item["source"]
         if len(description) > MAX_DESCRIPTION:
             description = description[:MAX_DESCRIPTION - 3].rstrip() + "..."
